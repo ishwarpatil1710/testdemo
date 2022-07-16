@@ -1,0 +1,1180 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://docs.kony.com/konylibrary/messaging/engagement_api_guide/Content/pom.xmlfile.htm
+Subject: pom.xml File
+Date: Thu, 7 Jul 2022 08:07:56 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--iEBR4Gpzn9hfRUA0vtyBmVRYqP5yNLBZ9wcEEwhIXR----"
+
+
+------MultipartBoundary--iEBR4Gpzn9hfRUA0vtyBmVRYqP5yNLBZ9wcEEwhIXR----
+Content-Type: text/html
+Content-ID: <frame-EC268FB589E9B8AA01439A9464F32AFB@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://docs.kony.com/konylibrary/messaging/engagement_api_guide/Content/pom.xmlfile.htm
+
+<!DOCTYPE html><html xmlns:madcap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="Invoking REST APIs in Java" data-mc-ignored-words="iphone;winmobile;wap;j2me;symbian;ipad;tabrcandroid;en_AU;en_US;fr_CA;it_IT;images240;images320;images480;adviphone;advpalm;advandroid;advblackberry;androidtab;myicon;Myicon;png;icon2;Icon2;accntsummary;aCCNT;accountdetails;flightstatus123;Opstatus;errcode;OpStatus;opstatus;GetCityWeatherByZip;WeatherApp;URLS;ws;cdyne;WeatherWS;asmx;wsdl;weat;milli;Cachable;$ZIP;XPath;w3schools;xpath;GetCityWeatherByZIPResponse;GetCityWeatherByZIPResult;RelativeHumidity;webservice;ServiceDefinition;Webservice;servicedef;InputZip;OutputWeather;IP;SDKs;Datatypes;datatypes;lang;NSNumber;datatype;NSString;NSException;NSDictionary;NSArray;HashTable;preverify;exe;classpath;UiApplication;NoClassDefFoundError;rapc;appName;luaj2me;blackberry47;luaandroid;libs;KonyMain;getActContext;zxling;XCode;Symbian;objectname;methodname;classname;mobilerichclient;W3C;UnSecure;unsecure;s;isDebugEnabled;applicationName;proxyhost;proxyport;proxyuser;proxypassword;deviceDetectionLogic;bootconfig;tc;KonyDevice;luavmiphone;VMAppPreview;xcoeproj;xcodeproj;konylib;createplatformlib;sh;KonyPreview;KONY;Windows7;localhost;p;frm;frmSearchResults;popTermsAndConditions;WidgetName;btnSearchFiles;hbx;vbx;tbp;lbl;btn;txt;txa;cmb;lst;chk;rbt;lnk;lin;img;MenuItem;mnu;seg;igl;HorizontalImageStrip;phn;swt;pkv;writeable;GetStockQuotes;Postprocessors;LuaTable;drawable;app_name;launchMode;singleTask;configChanges;keyboardHidden;screenOrientation;windowSoftInputMode;adjustResize;google;singleInstance;KonyMapsActivity;anyDensity;smallScreens;o;largeScreens;sdk;targetSdkVersion;minSdkVersion;ACCESS_NETWORK_STATE;ACCESS_CHECKIN_PROPERTIES;ACCESS_LOCATION_EXTRA_COMMANDS;ACCESS_MOCK_LOCATION;UTF;smscode;desc;config;smsenabled;CompositeConnector;getStocksComposite;cacheduration;cachable;param;exec_type;getStockQuoteDetails;getAddress;preprocessorname;methodName;getGenericScrapperData;postprocessorname;sockettimeout;formatvalue;sms;src;prevClose;tradeTime;getStockQuoteDetails_url;getStockQuoteDetails_cookie;lastTrade;GetCityWeatherByZIP;soapserviceConnector;endpointUrl;soapAction;userid;pwd;kds;0eUc;i3BqFqSkpCk4g;urlprovider;proxyname;proxyusername;proxypwd;lt;soapenv;xmlns;quot;xmlsoap;gt;targetdatatype;passwordencrypted;plainxmlserviceConnector;responseEncoding;dataset;keplerproject;ldt;ui;dropins;konyapi;splscreen;appname;fr;createplatformlibfordebugger;middlewarelib;wsf;wsfh;kl;WordPad;formCategory;SecureSubmit;BROADCAST_PACKAGE_REMOVED;CHANGE_NETWORK_STATE;FACTORY_TEST;Resizeable;Paddings;ApplicationName;konysolutions;_Android;win32;plugins;keditor;prefs;OutOfMemory;ini;Xmx;m;Xmx512m;OutOfMemoryError;PermGen;XX;MaxPermSize;128m;C;JDE;EclipseApplication;rel;io;FileNotFoundException;apk;ANT_HOME;TermsAndConditions;Webapps;W;SSL;PreprocessDecision;PEARL3G;pearl3g;260x400;idletime;appinit;onhide;postshow;transparencyDuringPostShow;needsProgressIndicatorDuringPostShow;showloadingscreen;getcurrentform;clickable;postdata;2X;Xcode;2x;VMAppWithKonylib;JavaScript;XFS;owasp;php;Cross_Frame_Scripting;inferencing;ipadnative;UserName;iphonebuild;NativeFiles;setData;doubleValue;t;tmp2;luaTableWithArraySize;hashSize;tbl;tmp4;addObject;numberWithInt;psp26;IE;RGBA" class=" js touch svg inlinesvg svgclippaths no-ie8compat"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-8dd94f98-5c33-4383-8117-0d9e6155bb23@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-ef0afa2d-ea2a-4c70-93ca-b2f9db4eb22e@mhtml.blink" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>pom.xml File</title>
+        
+        
+        
+        
+        
+        <!-- Hotjar Tracking Code for docs.kony.com -->
+        
+        <link href="https://docs.kony.com/konylibrary/messaging/engagement_api_guide/Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" data-mc-generated="True">
+        <link href="https://docs.kony.com/konylibrary/messaging/engagement_api_guide/Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" data-mc-generated="True">
+        <link href="https://docs.kony.com/konylibrary/messaging/engagement_api_guide/Skins/Default/Stylesheets/Topic.css" rel="stylesheet" data-mc-generated="True">
+        <link href="https://docs.kony.com/konylibrary/messaging/engagement_api_guide/Skins/Default/Stylesheets/Components/Styles.css" rel="stylesheet" data-mc-generated="True">
+        <link href="https://docs.kony.com/konylibrary/messaging/engagement_api_guide/Skins/Default/Stylesheets/Components/Tablet.css" rel="stylesheet" data-mc-generated="True">
+        <link href="https://docs.kony.com/konylibrary/messaging/engagement_api_guide/Skins/Default/Stylesheets/Components/Mobile.css" rel="stylesheet" data-mc-generated="True">
+        <link href="https://docs.kony.com/konylibrary/messaging/engagement_api_guide/Content/Resources/TableStyles/Inner.css" rel="stylesheet">
+        <link href="https://docs.kony.com/konylibrary/messaging/engagement_api_guide/Content/Resources/Stylesheets/MadCapKB.css" rel="stylesheet">
+        
+        
+        
+        
+        <meta class="foundation-mq-small"><meta class="foundation-mq-medium"><meta class="foundation-mq-large"><meta class="foundation-mq-xlarge"><meta class="foundation-mq-xxlarge">
+        
+        
+        
+    </head>
+    <body style="background-color: #edf2f8">
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkTop"><a href="https://docs.kony.com/konylibrary/messaging/engagement_api_guide/Default.htm#pom.xmlfile.htm">Open topic with navigation</a>
+        </p>
+        <div id="pageFrame" style="max-width:1000px; border:1px #ccdae9 solid; background-color: #fff; padding: 35px; margin:20px;">
+            <div id="crumbs" style="">
+                <div class="MCBreadcrumbsBox_0"><span class="MCBreadcrumbsPrefix">You are here:  </span><a class="MCBreadcrumbsLink" href="https://docs.kony.com/konylibrary/messaging/engagement_api_guide/Content/Invoking_REST_APIs_in_Java.htm">Invoking REST APIs in Java</a><span class="MCBreadcrumbsDivider"> &gt; </span><span class="MCBreadcrumbs">pom.xml File</span>
+                </div>
+            </div>
+            <h1>pom.xml File</h1><pre class="prettyprint" xml:space="preserve"><input type="button" id="button" class="btn" style="float: right;" value="Copy"><span class="pln">
+</span><span class="tag">&lt;project</span><span class="pln"> </span><span class="atn">xmlns</span><span class="pun">=</span><span class="atv">"http://maven.apache.org/POM/4.0.0"</span><span class="pln"> </span><span class="atn">xmlns:xsi</span><span class="pun">=</span><span class="atv">"http://www.w3.org/2001/XMLSchema-instance"</span><span class="pln"> </span><span class="atn">xsi:schemaLocation</span><span class="pun">=</span><span class="atv">"http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"</span><span class="tag">&gt;</span><span class="pln">
+  </span><span class="tag">&lt;modelVersion&gt;</span><span class="pln">4.0.0</span><span class="tag">&lt;/modelVersion&gt;</span><span class="pln">
+  </span><span class="tag">&lt;groupId&gt;</span><span class="pln">kms-api-examples</span><span class="tag">&lt;/groupId&gt;</span><span class="pln">
+  </span><span class="tag">&lt;artifactId&gt;</span><span class="pln">kms-api-examples</span><span class="tag">&lt;/artifactId&gt;</span><span class="pln">
+  </span><span class="tag">&lt;version&gt;</span><span class="pln">0.0.1-SNAPSHOT</span><span class="tag">&lt;/version&gt;</span><span class="pln">
+  </span><span class="tag">&lt;dependencies&gt;</span><span class="pln">
+		</span><span class="tag">&lt;dependency&gt;</span><span class="pln">
+			</span><span class="tag">&lt;groupId&gt;</span><span class="pln">org.apache.httpcomponents</span><span class="tag">&lt;/groupId&gt;</span><span class="pln">
+			</span><span class="tag">&lt;artifactId&gt;</span><span class="pln">httpclient</span><span class="tag">&lt;/artifactId&gt;</span><span class="pln">
+			</span><span class="tag">&lt;version&gt;</span><span class="pln">4.3.2</span><span class="tag">&lt;/version&gt;</span><span class="pln">
+			</span><span class="tag">&lt;type&gt;</span><span class="pln">jar</span><span class="tag">&lt;/type&gt;</span><span class="pln">
+			</span><span class="tag">&lt;scope&gt;</span><span class="pln">compile</span><span class="tag">&lt;/scope&gt;</span><span class="pln">
+		</span><span class="tag">&lt;/dependency&gt;</span><span class="pln">
+		</span><span class="tag">&lt;dependency&gt;</span><span class="pln">
+			</span><span class="tag">&lt;groupId&gt;</span><span class="pln">org.apache.httpcomponents</span><span class="tag">&lt;/groupId&gt;</span><span class="pln">
+			</span><span class="tag">&lt;artifactId&gt;</span><span class="pln">httpclient-cache</span><span class="tag">&lt;/artifactId&gt;</span><span class="pln">
+			</span><span class="tag">&lt;version&gt;</span><span class="pln">4.3.2</span><span class="tag">&lt;/version&gt;</span><span class="pln">
+			</span><span class="tag">&lt;type&gt;</span><span class="pln">jar</span><span class="tag">&lt;/type&gt;</span><span class="pln">
+			</span><span class="tag">&lt;scope&gt;</span><span class="pln">compile</span><span class="tag">&lt;/scope&gt;</span><span class="pln">
+		</span><span class="tag">&lt;/dependency&gt;</span><span class="pln">
+		</span><span class="tag">&lt;dependency&gt;</span><span class="pln">
+			</span><span class="tag">&lt;groupId&gt;</span><span class="pln">org.apache.httpcomponents</span><span class="tag">&lt;/groupId&gt;</span><span class="pln">
+			</span><span class="tag">&lt;artifactId&gt;</span><span class="pln">httpmime</span><span class="tag">&lt;/artifactId&gt;</span><span class="pln">
+			</span><span class="tag">&lt;version&gt;</span><span class="pln">4.3.2</span><span class="tag">&lt;/version&gt;</span><span class="pln">
+			</span><span class="tag">&lt;type&gt;</span><span class="pln">jar</span><span class="tag">&lt;/type&gt;</span><span class="pln">
+			</span><span class="tag">&lt;scope&gt;</span><span class="pln">compile</span><span class="tag">&lt;/scope&gt;</span><span class="pln">
+		</span><span class="tag">&lt;/dependency&gt;</span><span class="pln">
+		</span><span class="tag">&lt;dependency&gt;</span><span class="pln">
+			</span><span class="tag">&lt;groupId&gt;</span><span class="pln">com.fasterxml.jackson.core</span><span class="tag">&lt;/groupId&gt;</span><span class="pln">
+			</span><span class="tag">&lt;artifactId&gt;</span><span class="pln">jackson-core</span><span class="tag">&lt;/artifactId&gt;</span><span class="pln">
+			</span><span class="tag">&lt;version&gt;</span><span class="pln">2.4.0</span><span class="tag">&lt;/version&gt;</span><span class="pln">
+		</span><span class="tag">&lt;/dependency&gt;</span><span class="pln">
+		</span><span class="tag">&lt;dependency&gt;</span><span class="pln">
+			</span><span class="tag">&lt;groupId&gt;</span><span class="pln">com.fasterxml.jackson.core</span><span class="tag">&lt;/groupId&gt;</span><span class="pln">
+			</span><span class="tag">&lt;artifactId&gt;</span><span class="pln">jackson-databind</span><span class="tag">&lt;/artifactId&gt;</span><span class="pln">
+			</span><span class="tag">&lt;version&gt;</span><span class="pln">2.4.0</span><span class="tag">&lt;/version&gt;</span><span class="pln">
+		</span><span class="tag">&lt;/dependency&gt;</span><span class="pln">
+	</span><span class="tag">&lt;/dependencies&gt;</span><span class="pln">
+  </span><span class="tag">&lt;build&gt;</span><span class="pln">
+    </span><span class="tag">&lt;plugins&gt;</span><span class="pln">
+      </span><span class="tag">&lt;plugin&gt;</span><span class="pln">
+        </span><span class="tag">&lt;artifactId&gt;</span><span class="pln">maven-compiler-plugin</span><span class="tag">&lt;/artifactId&gt;</span><span class="pln">
+        </span><span class="tag">&lt;version&gt;</span><span class="pln">3.5.1</span><span class="tag">&lt;/version&gt;</span><span class="pln">
+        </span><span class="tag">&lt;configuration&gt;</span><span class="pln">
+          </span><span class="tag">&lt;source&gt;</span><span class="pln">1.7</span><span class="tag">&lt;/source&gt;</span><span class="pln">
+          </span><span class="tag">&lt;target&gt;</span><span class="pln">1.7</span><span class="tag">&lt;/target&gt;</span><span class="pln">
+        </span><span class="tag">&lt;/configuration&gt;</span><span class="pln">
+      </span><span class="tag">&lt;/plugin&gt;</span><span class="pln">
+    </span><span class="tag">&lt;/plugins&gt;</span><span class="pln">
+  </span><span class="tag">&lt;/build&gt;</span><span class="pln">
+</span><span class="tag">&lt;/project&gt;</span></pre>
+            <table style="border-spacing: 0px 0px;border-collapse: collapse;width: 100%; border:none; border-bottom:1px solid white; margin-left: 0;margin-right: auto; margin-top:35px;" cellspacing="0">
+                <colgroup><col style="width: 203px;font-weight: bold;" class="Column-Column1">
+                <col style="width: 556px;font-weight: bold;" class="Column-Column1">
+                </colgroup><tbody>
+                    <tr class="Body-Body1">
+                        <td style="text-align: left;font-size: 9pt;font-weight: normal;" class="BodyB-Column1-Body1">
+                            Last updated on : 03 August, 2021
+                        </td>
+                        <td style="text-align: right;font-size: 9pt;font-weight: normal;" class="BodyA-Column1-Body1"><a href="https://docs.kony.com/konylibrary/messaging/engagement_api_guide/Content/Copyright.htm" class="MCTopicPopup MCTopicPopupHotSpot a MCTopicPopup_Closed" data-mc-state="closed">Copyright </a>© <span class="MyVariablesPublishingYear">2020</span> Temenos AG. All rights reserved.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <p class="MCWebHelpFramesetLink MCWebHelpFramesetLinkBottom"><a href="https://docs.kony.com/konylibrary/messaging/engagement_api_guide/Default.htm#pom.xmlfile.htm">Open topic with navigation</a>
+        </p>
+    
+<iframe id="_hjSafeContext_61502503" src="cid:frame-0ACA61AE59341E72724824C60EE3BA62@mhtml.blink" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="cid:frame-313AE26DA6DDE1A733A7857FF86966DC@mhtml.blink" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe></body></html>
+------MultipartBoundary--iEBR4Gpzn9hfRUA0vtyBmVRYqP5yNLBZ9wcEEwhIXR----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-8dd94f98-5c33-4383-8117-0d9e6155bb23@mhtml.blink
+
+@charset "utf-8";
+
+
+------MultipartBoundary--iEBR4Gpzn9hfRUA0vtyBmVRYqP5yNLBZ9wcEEwhIXR----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-ef0afa2d-ea2a-4c70-93ca-b2f9db4eb22e@mhtml.blink
+
+@charset "utf-8";
+
+iframe#_hjRemoteVarsFrame { display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important; }
+------MultipartBoundary--iEBR4Gpzn9hfRUA0vtyBmVRYqP5yNLBZ9wcEEwhIXR----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://docs.kony.com/konylibrary/messaging/engagement_api_guide/Skins/Default/Stylesheets/Slideshow.css
+
+@charset "utf-8";
+
+.mc-wrapper { position: relative; margin: 0px auto 60px; padding: 0px; zoom: 1; clear: both; }
+
+.mc-wrapper .mc-viewport { box-sizing: content-box; }
+
+.mc-wrapper .mc-pager, .mc-wrapper .mc-controls-auto { position: absolute; bottom: -30px; width: 100%; }
+
+.mc-wrapper img, .mc-wrapper object, .mc-wrapper table { max-width: 100%; overflow-wrap: break-word; table-layout: fixed; }
+
+div.MCSlide { overflow-wrap: break-word; visibility: hidden; }
+
+.mc-wrapper .mc-loading { min-height: 50px; background-image: url("Images/MCSlider_loader.gif"); background-repeat: no-repeat; background-color: rgb(255, 255, 255); background-position: center center; height: 100%; width: 100%; position: absolute; top: 0px; left: 0px; z-index: auto; }
+
+.mc-wrapper .mc-pager { text-align: center; font-size: 0.85em; font-family: Arial; font-weight: bold; color: rgb(102, 102, 102); padding-top: 20px; }
+
+.mc-wrapper .mc-pager .mc-pager-item, .mc-wrapper .mc-controls-auto .mc-controls-auto-item { display: inline-block; zoom: 1; }
+
+.mc-wrapper .mc-pager.mc-default-pager a { background: rgb(102, 102, 102); text-indent: -9999px; display: block; width: 10px; height: 10px; margin: 0px 5px; outline: 0px; border-radius: 5px; cursor: pointer; }
+
+.mc-wrapper .mc-pager.mc-default-pager a:hover, .mc-wrapper .mc-pager.mc-default-pager a.active { background: rgb(0, 0, 0); }
+
+.mc-wrapper .mc-prev { background-image: url("Images/MCSlider_controls.png"); background-repeat: no-repeat; background-position: 0px -32px; }
+
+.mc-wrapper .mc-next { background-image: url("Images/MCSlider_controls.png"); background-repeat: no-repeat; background-position: -43px -32px; }
+
+.mc-wrapper .mc-prev:hover { background-position: 0px 0px; }
+
+.mc-wrapper .mc-next:hover { background-position: -43px 0px; }
+
+.mc-wrapper .mc-controls-direction a { position: absolute; top: 50%; margin-top: -16px; outline: 0px; width: 32px; height: 32px; text-indent: -9999px; z-index: auto; cursor: pointer; }
+
+.mc-wrapper .mc-controls-direction a.disabled { display: none; }
+
+.mc-wrapper .mc-controls-auto { text-align: center; }
+
+.mc-wrapper .mc-controls-auto .mc-start { display: block; text-indent: -9999px; width: 10px; height: 11px; outline: 0px; background-image: url("Images/MCSlider_controls.png"); background-repeat: no-repeat; background-position: -86px -11px; margin: 0px 3px; cursor: pointer; }
+
+.mc-wrapper .mc-controls-auto .mc-start:hover, .mc-wrapper .mc-controls-auto .mc-start.active { background-position: -86px 0px; }
+
+.mc-wrapper .mc-controls-auto .mc-stop { display: block; text-indent: -9999px; width: 9px; height: 11px; outline: 0px; background-image: url("Images/MCSlider_controls.png"); background-repeat: no-repeat; background-position: -86px -44px; margin: 0px 3px; cursor: pointer; }
+
+.mc-wrapper .mc-controls-auto .mc-stop:hover, .mc-wrapper .mc-controls-auto .mc-stop.active { background-position: -86px -33px; }
+
+.mc-wrapper .mc-controls.mc-has-controls-auto.mc-has-pager .mc-pager { text-align: left; width: 100%; }
+
+.mc-wrapper .mc-controls.mc-has-controls-auto.mc-has-pager .mc-controls-auto { right: 0px; width: 35px; }
+
+.mc-wrapper .mc-caption { position: absolute; bottom: 0px; left: 0px; background: rgba(80, 80, 80, 0.75); width: 100%; }
+
+.mc-wrapper .mc-caption div { color: rgb(255, 255, 255); font-family: Arial; display: block; font-size: 0.85em; padding: 10px; }
+
+.mc-thumbnail { text-align: center; margin-top: -30px; }
+
+.mc-thumbnail a img { margin: 0px 3px; padding: 3px; border: 1px solid rgb(204, 204, 204); width: 50px; cursor: pointer; }
+
+.mc-thumbnail a:hover img, .mc-thumbnail a.active img { border: 1px solid rgb(82, 128, 221); }
+------MultipartBoundary--iEBR4Gpzn9hfRUA0vtyBmVRYqP5yNLBZ9wcEEwhIXR----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://docs.kony.com/konylibrary/messaging/engagement_api_guide/Skins/Default/Stylesheets/TextEffects.css
+
+@charset "utf-8";
+
+.transparent-gif { background-image: url("Images/transparent.gif"); }
+
+.MCExpanding { text-decoration: none; }
+
+.MCExpanding_Open { }
+
+.MCExpanding_Closed { }
+
+.MCExpandingHead { }
+
+.MCExpandingHotSpot { cursor: pointer; background-position: left center; background-repeat: no-repeat; padding-left: 18px; }
+
+.MCExpanding_Image_Icon { border: none; }
+
+.MCExpanding_Open .MCExpandingHotSpot { background-image: url("Images/minus.png"); }
+
+.MCExpanding_Closed .MCExpandingHotSpot { background-image: url("Images/plus.png"); }
+
+.MCExpanding_Closed a.MCExpandingHotSpot, .MCExpanding_Open a.MCExpandingHotSpot { text-decoration: none; }
+
+.MCExpandingBody { vertical-align: bottom; }
+
+.MCExpanding_Open .MCExpandingBody { display: inline-block; }
+
+.MCExpanding_Closed .MCExpandingBody { display: none; }
+
+.MCDropDown { }
+
+.MCDropDown_Open { }
+
+.MCDropDown_Closed { }
+
+.MCDropDownHead { display: block; }
+
+.MCDropDownHotSpot { cursor: pointer; background-position: left center; background-repeat: no-repeat; padding-left: 18px; }
+
+.MCDropDown_Open .MCDropDownHotSpot { background-image: url("Images/minus.png"); }
+
+.MCDropDown_Closed .MCDropDownHotSpot { background-image: url("Images/plus.png"); }
+
+.MCDropDown_Closed a.MCDropDownHotSpot, .MCDropDown_Open a.MCDropDownHotSpot { text-decoration: none; }
+
+.MCDropDownBody { margin-left: 18px; overflow: hidden; }
+
+.MCDropDown_Open .MCDropDownBody { display: block; }
+
+.MCDropDown_Closed .MCDropDownBody { display: none; }
+
+.MCDropDown_Image_Icon { border: none; }
+
+.MCToggler { text-decoration: none; }
+
+.MCToggler_Open { }
+
+.MCToggler_Closed { }
+
+.MCTogglerHead { }
+
+.MCTogglerHotSpot { cursor: pointer; background-position: left center; background-repeat: no-repeat; padding-left: 18px; }
+
+.MCToggler_Open.MCTogglerHotSpot { background-image: url("Images/minus.png"); }
+
+.MCToggler_Closed.MCTogglerHotSpot { background-image: url("Images/plus.png"); }
+
+a.MCToggler_Closed.MCTogglerHotSpot, a.MCToggler_Open.MCTogglerHotSpot { text-decoration: none; }
+
+.MCToggler_Image_Icon { border: none; }
+
+.MCTextPopup { cursor: pointer; text-decoration: none; }
+
+.MCTextPopupHotSpot { cursor: pointer; background-repeat: no-repeat; }
+
+.MCTextPopup_Open.MCTextPopupHotSpot { }
+
+.MCTextPopup_Closed.MCTextPopupHotSpot { }
+
+.MCTextPopupBody { color: rgb(235, 235, 235); font-weight: normal; line-height: 1.5em; background-color: rgb(0, 0, 0); width: 200px; padding: 11px 15px; box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 8px 0px; border-radius: 4px; position: absolute; left: 20px; white-space: normal; opacity: 0; z-index: 10001; border: none !important; }
+
+.MCTextPopup_Open .MCTextPopupBody { display: block; }
+
+.MCTextPopup_Closed .MCTextPopupBody { display: none; }
+
+.MCTextPopupArrow { content: ""; border-right: 13px solid transparent; border-left: 13px solid transparent; border-bottom: 13px solid rgb(220, 220, 220); border-image: initial; border-top: none; position: absolute; top: 0px; left: 50%; margin-top: -13px; margin-left: -13px; width: 0px; height: 0px; }
+
+.MCTextPopupBodyBottom .MCTextPopupArrow { border-right: 13px solid transparent; border-left: 13px solid transparent; border-top: 13px solid rgb(0, 0, 0); border-image: initial; border-bottom: none; top: auto; bottom: -13px; }
+
+.link-list-popup { color: rgb(112, 112, 112); line-height: normal; background-color: rgb(255, 255, 255); border-radius: 4px; box-shadow: rgb(139, 139, 139) 0px 4px 10px; position: absolute; z-index: 50; }
+
+.link-list-popup ul { list-style: none; margin: 0px; padding: 6px; }
+
+.link-list-popup ul li { padding: 5px; cursor: pointer; }
+
+.link-list-popup ul li:hover { color: rgb(0, 0, 0); background-color: rgb(229, 239, 247); }
+
+.link-list-popup ul li a { color: inherit; text-decoration: none; }
+
+.buttons { position: static; }
+
+.templateTopic .buttons { display: none; }
+
+.toolbar-buttons { position: absolute; top: 7px; left: 9px; right: 9px; }
+
+.button-group-container-left { float: left; margin-left: -4px; }
+
+.button-group-container-right { float: right; margin-right: -4px; }
+
+.button-group { float: left; }
+
+.button-separator { float: left; margin: 0px 4px; width: 1px; color: rgb(225, 225, 225); background-color: rgb(225, 225, 225); height: 24px; }
+
+.button { line-height: 22px; position: relative; margin: 0px 4px; float: left; cursor: pointer; border: 0px none rgb(241, 241, 241); box-sizing: content-box; padding: 0px; border-radius: 0px; box-shadow: rgb(255, 255, 255) 0px 0px 0px; width: 22px; height: 22px; background: -webkit-linear-gradient(top, transparent 0%, transparent 100%); }
+
+.button[disabled], .button.current-topic-index-button.disabled { opacity: 0.5; }
+
+.button.previous-topic-button { box-shadow: rgb(255, 255, 255) 0px 0px 0px; background: url("Images/prev_ico.png") center center no-repeat, -webkit-linear-gradient(top, transparent 0%, transparent 100%); }
+
+.button.next-topic-button { box-shadow: rgb(255, 255, 255) 0px 0px 0px; background: url("Images/next_ico.png") center center no-repeat, -webkit-linear-gradient(top, transparent 0%, transparent 100%); }
+
+.button.current-topic-index-button { text-shadow: rgb(255, 255, 255) 0px 1px 0px; color: rgb(108, 108, 108); font-size: 11px; font-weight: bold; padding: 0px 12px; box-shadow: rgb(255, 255, 255) 0px 0px 0px; width: auto; background: -webkit-linear-gradient(top, transparent 0%, transparent 100%); }
+
+.button.current-topic-index-button.disabled { display: none; }
+
+.button.expand-all-button { box-shadow: rgb(255, 255, 255) 0px 0px 0px; background: url("Images/expand.png") center center no-repeat, -webkit-linear-gradient(top, transparent 0%, transparent 100%); }
+
+.button.collapse-all-button { box-shadow: rgb(255, 255, 255) 0px 0px 0px; background: url("Images/collapse.png") center center no-repeat, -webkit-linear-gradient(top, transparent 0%, transparent 100%); }
+
+.button.print-button { box-shadow: rgb(255, 255, 255) 0px 0px 0px; background: url("Images/priint_ico.png") center center no-repeat, -webkit-linear-gradient(top, transparent 0%, transparent 100%); }
+
+.button.remove-highlight-button { box-shadow: rgb(255, 255, 255) 0px 0px 0px; background: url("Images/highlight.png") center center no-repeat, -webkit-linear-gradient(top, transparent 0%, transparent 100%); }
+
+.loading { background-image: url("Images/loading.gif"); background-repeat: no-repeat; background-position: center center; }
+
+.loading .button.star-button { visibility: hidden; }
+
+.button.star-button { border: none; width: 16px; margin: 0px 2px; box-shadow: none; }
+
+.button.topic-ratings-button { box-shadow: none; border-width: initial; border-style: none; border-color: initial; width: 16px; background: url("Images/star-full.png") center center / 16px 16px no-repeat transparent; }
+
+.button.topic-ratings-empty-button { box-shadow: none; border-width: initial; border-style: none; border-color: initial; width: 16px; background: url("Images/star-empty.png") center center / 16px 16px no-repeat transparent; }
+
+.button.login-button { box-shadow: rgb(255, 255, 255) 0px 0px 0px; background: url("Images/login.png") center center no-repeat, -webkit-linear-gradient(top, transparent 0%, transparent 100%); }
+
+.button.edit-user-profile-button { box-shadow: rgb(255, 255, 255) 0px 0px 0px; background: url("Images/edit-profile.png") center center no-repeat, -webkit-linear-gradient(top, transparent 0%, transparent 100%); }
+
+.pulse-frame { width: 100%; border: none; margin-top: 17px; visibility: visible; height: 1000px; }
+
+.feedback-comments-wrapper.feedback-embedded .pulse-frame { display: block; }
+
+.feedback-comments-wrapper.responsive, .feedback-comments-wrapper.responsive .pulse-frame, .pulse-frame.pulse-loading { visibility: hidden; height: 1px; }
+
+.feedback-comments-wrapper.hidden { display: none; }
+
+.feedback-comments-wrapper .comments-header { margin: 17px 0px; color: rgb(116, 154, 182); font-size: 2em; font-weight: bold; }
+
+.comments { }
+
+.comments .comment { max-width: 400px; padding: 10px; border-bottom: 2px solid rgb(221, 221, 221); }
+
+.comments .comment:last-child { border-bottom: none; }
+
+.comments .comment .comment { margin-left: 45px; }
+
+.comments .username { margin-right: 10px; display: none; color: rgb(116, 154, 182); font-family: Georgia; font-weight: bold; font-style: italic; }
+
+html.feedback-anonymous-enabled .comments .username { display: inline; }
+
+.comments .timestamp { color: rgb(136, 136, 136); font-family: Georgia; font-size: 11px; font-weight: normal; font-style: italic; }
+
+.comments .subject { color: rgb(136, 136, 136); font-weight: bold; }
+
+.comments .body { }
+
+.comment-form-wrapper { }
+
+.comment-form-wrapper .username-field, .comment-form-wrapper .subject-field { width: 200px; padding: 5px; border: 1px solid rgb(204, 204, 204); border-radius: 4px; }
+
+.comment-form-wrapper .username-field { display: none; }
+
+html.feedback-anonymous-enabled .comment-form-wrapper .username-field { display: inline-block; }
+
+.comment-form-wrapper .body-field { font-family: Arial; width: 406px; height: 60px; padding: 10px; border: 1px solid rgb(204, 204, 204); border-radius: 4px; }
+
+.comment-form-wrapper .field-error { border: 1px solid rgb(255, 0, 0); background-color: rgb(254, 231, 231); }
+
+.comment-form-wrapper .comment-submit { }
+
+.mc-template { display: none; }
+
+#mc-background-tint { position: fixed; top: 0px; left: 0px; width: 100%; height: 100%; opacity: 0; }
+
+#contentBody #mc-background-tint { position: absolute; }
+
+#mc-background-tint.light { background-color: rgb(255, 255, 255); }
+
+#mc-background-tint.dark { background-color: rgb(0, 0, 0); }
+
+.clearfix::before, .clearfix::after { content: ""; display: table; }
+
+.clearfix::after { clear: both; }
+
+.clearfix { zoom: 1; }
+
+span.SearchHighlight { background-repeat: no-repeat; }
+
+span.SearchHighlight1 { }
+
+span.SearchHighlight2 { }
+
+span.SearchHighlight3 { }
+
+span.SearchHighlight4 { }
+
+span.SearchHighlight5 { }
+
+span.SearchHighlight6 { }
+
+span.SearchHighlight7 { }
+
+span.SearchHighlight8 { }
+
+span.SearchHighlight9 { }
+
+span.SearchHighlight10 { }
+
+.highlightGlossary, .highlightIndex { font-weight: bold; }
+
+.highlightGlossary { background-repeat: no-repeat; font-weight: bold; }
+
+.highlightIndex { background-repeat: no-repeat; font-weight: bold; }
+
+span.SearchHighlight.SearchHighlight1 { color: rgb(0, 0, 0); background-color: rgb(255, 255, 102); }
+
+span.SearchHighlight.SearchHighlight2 { color: rgb(0, 0, 0); background-color: rgb(160, 255, 255); }
+
+span.SearchHighlight.SearchHighlight3 { color: rgb(0, 0, 0); background-color: rgb(153, 255, 153); }
+
+span.SearchHighlight.SearchHighlight4 { color: rgb(0, 0, 0); background-color: rgb(255, 153, 153); }
+
+span.SearchHighlight.SearchHighlight5 { color: rgb(0, 0, 0); background-color: rgb(255, 102, 255); }
+
+span.SearchHighlight.SearchHighlight6 { color: rgb(255, 255, 255); background-color: rgb(136, 0, 0); }
+
+span.SearchHighlight.SearchHighlight7 { color: rgb(255, 255, 255); background-color: rgb(0, 170, 0); }
+
+span.SearchHighlight.SearchHighlight8 { color: rgb(255, 255, 255); background-color: rgb(136, 104, 0); }
+
+span.SearchHighlight.SearchHighlight9 { color: rgb(255, 255, 255); background-color: rgb(0, 70, 153); }
+
+span.SearchHighlight.SearchHighlight10 { color: rgb(255, 255, 255); background-color: rgb(153, 0, 153); }
+
+.button.docversion-button { border-top: 0px none rgb(241, 241, 241); box-shadow: rgb(255, 255, 255) 0px 0px 0px; display: block; width: 140px; height: 22px; background: url("Images/Release_Version_V9.png") center center no-repeat, -webkit-linear-gradient(top, transparent 0%, transparent 100%); }
+------MultipartBoundary--iEBR4Gpzn9hfRUA0vtyBmVRYqP5yNLBZ9wcEEwhIXR----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://docs.kony.com/konylibrary/messaging/engagement_api_guide/Skins/Default/Stylesheets/Topic.css
+
+@charset "utf-8";
+
+body { text-size-adjust: 100%; font-size: 16px; }
+
+:focus { outline: none; }
+
+.hidden { display: none; }
+
+.MCTopicPopup { text-decoration: none; }
+
+.MCTopicPopupHotSpot { cursor: pointer; background-position: left center; background-repeat: no-repeat; }
+
+.MCTopicPopup_Open.MCTopicPopupHotSpot { }
+
+.MCTopicPopup_Closed.MCTopicPopupHotSpot { }
+
+.MCTopicPopupContainer { background-color: rgb(255, 255, 255); padding: 10px; position: fixed; inset: 100px; border-radius: 5px; box-shadow: rgb(51, 51, 51) 0px 4px 10px; opacity: 0; z-index: 10001; }
+
+#contentBodyInner .MCTopicPopupContainer { position: absolute; }
+
+.MCTopicPopupBody { width: 100%; border: none; }
+
+.MCPopupThumbnailLink { }
+
+.MCPopupThumbnail { border-radius: 5px; }
+
+.MCPopupContainer { background-color: rgb(255, 255, 255); border: 1px solid rgb(0, 0, 0); padding: 10px; position: absolute; cursor: pointer; border-radius: 5px; z-index: 10001; }
+
+.MCPopupContainer2 { background-color: rgb(255, 255, 255); border: 1px solid rgb(0, 0, 0); padding: 10px; position: absolute; cursor: pointer; box-shadow: rgb(255, 255, 255) 2px 2px 8px; }
+
+.MCPopupFullImage { width: 0px; height: 0px; border-radius: 5px; }
+
+.MCHelpControl_Image_Icon { border: none; }
+
+.MCHelpControl span { background: url("Images/help-control.png") left center no-repeat; padding-left: 18px; }
+
+a.MCHelpControl { cursor: pointer; text-decoration: none; }
+
+.MCDialog { display: none; width: 400px; position: fixed; top: 20px; left: 20px; padding: 6px; background-color: rgb(0, 0, 0); border: 1px solid rgb(0, 0, 0); border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.1) 0px 3px 0px; opacity: 0; z-index: 10001; }
+
+.MCDialogHeader { margin: 0px 0px 4px; padding: 5px 0px 5px 5px; color: rgb(255, 255, 255); font-size: 15px; font-family: Helvetica; }
+
+.MCDialogClose { color: rgb(255, 255, 255); font-family: tahoma, sans-serif; font-weight: bold; font-size: 16px; line-height: 12px; text-align: center; text-decoration: none; float: right; width: 20px; height: 18px; padding-top: 2px; margin-top: -2px; background-color: rgb(153, 153, 153); border-radius: 3px; }
+
+.MCDialogBody { color: rgb(85, 85, 85); padding: 10px; background-color: rgb(255, 255, 255); border-radius: 4px; }
+
+a.glossaryTerm { text-decoration: none; }
+
+#ios-wrapper { width: 100%; height: 100%; overflow: auto; }
+
+.img_off { display: none; }
+
+.pulse-required, .feedback-required, .feedback-topic-required { display: none; }
+
+.pulse-active .pulse-required, .feedback-active .feedback-required, .feedback-active.has-topic .feedback-topic-required { display: block; }
+
+.login-dialog { display: none; z-index: 10001; position: absolute; top: 50%; left: 50%; margin-top: -200px; margin-left: -175px; width: 350px; border-radius: 3px; box-shadow: rgb(51, 51, 51) 0px 4px 10px; }
+
+.login-dialog.pulse { width: 408px; height: 428px; margin-left: -204px; margin-top: -214px; }
+
+#pulse-login-frame { width: 100%; height: 100%; border: none; border-radius: 3px; box-shadow: rgb(51, 51, 51) 0px 4px 10px; }
+
+.login-dialog-header { color: rgb(255, 255, 255); font-size: 13px; font-weight: bold; height: 36px; line-height: 36px; padding-left: 50px; border-bottom: 1px solid rgb(43, 43, 43); background: url("Images/login-dialog-icon.png") 18px center no-repeat, -webkit-linear-gradient(top, rgb(90, 90, 90) 0%, rgb(74, 74, 74) 100%); border-radius: 3px 3px 0px 0px; }
+
+.login-dialog-content { border-top: 1px solid rgb(118, 118, 118); background: center center no-repeat rgb(90, 90, 90); border-radius: 0px 0px 3px 3px; padding: 17px; }
+
+.login-dialog-content .profile-item-wrapper { color: rgb(206, 206, 206); margin-bottom: 10px; height: 32px; line-height: 32px; }
+
+.login-dialog-content .profile-item-wrapper .label-wrapper { margin-bottom: 5px; float: left; }
+
+.login-dialog-content .profile-item-wrapper .input-wrapper { float: right; }
+
+.login-dialog-content .profile-item-wrapper input[type="text"] { margin: 0px; padding: 5px; border: 1px solid rgb(25, 25, 25); background: rgb(255, 255, 255); border-radius: 3px; box-shadow: rgb(136, 136, 136) 0px 1px; outline: none; }
+
+.login-dialog-content .profile-item-wrapper.email-notifications-wrapper { margin-top: 15px; height: auto; line-height: normal; }
+
+.login-dialog-content .profile-item-wrapper.email-notifications-wrapper .label-wrapper { float: none; }
+
+.login-dialog-content .profile-item-wrapper.email-notifications-wrapper .email-notifications-group { margin-right: 0px; padding: 12px; background-color: rgb(74, 74, 74); background-repeat: no-repeat; background-position: center center; border: 1px solid rgb(43, 43, 43); border-radius: 3px; box-shadow: rgb(136, 136, 136) 0px 1px; }
+
+.login-dialog-content .profile-item-wrapper.error input, .login-dialog-content .profile-item-wrapper.error select { border: 1px solid rgb(255, 0, 0); background-color: rgb(254, 231, 231); }
+
+.login-dialog-buttons { text-align: right; }
+
+.login-dialog button { color: rgb(255, 255, 255); font-weight: bold; margin-left: 5px; margin-right: 0px; padding: 8px 26px; border: 1px solid rgb(43, 43, 43); border-radius: 3px; background: -webkit-linear-gradient(top, rgb(89, 89, 89) 0%, rgb(74, 74, 74) 100%) center center no-repeat; cursor: pointer; }
+
+.login-dialog button.close-dialog { position: absolute; top: 8px; right: 8px; background: url("Images/close.png"); height: 16px; width: 16px; margin: 0px; padding: 0px; border: 0px; }
+
+.login-dialog .status-message-box { display: none; color: rgb(0, 255, 0); text-align: center; margin-top: 16px; padding: 12px; background-color: rgb(220, 254, 220); border: 1px solid rgb(0, 255, 0); border-radius: 3px; }
+
+.login-dialog .status-message-box.error { color: rgb(255, 0, 0); border: 1px solid rgb(255, 0, 0); background-color: rgb(254, 231, 231); }
+
+.login-dialog .status-message-box .message { display: none; }
+
+.a { color: rgb(72, 61, 139); }
+
+.a.aglossterm { color: rgb(128, 0, 0); font-style: italic; }
+
+.a:link { color: rgb(51, 0, 204); text-decoration: underline; }
+
+.a:visited { color: rgb(168, 35, 132); text-decoration: underline; }
+
+.a:hover { color: rgb(168, 35, 132); }
+
+.a:active { color: rgb(168, 35, 132); }
+
+.a:focus { }
+
+div.MCBreadcrumbsBox_0 { border-bottom: 1px solid rgb(204, 218, 233); font-size: 9pt; padding-bottom: 10px; margin-bottom: 10px; }
+
+.dropDownHotspot { text-decoration: none; }
+
+.dropDownHotspot:link { text-decoration: none; }
+
+.MCDropDownHotSpot_ { background-position: left center; }
+
+.MCDropDown_Open .MCDropDownHotSpot_ { background-image: url("DropDownOpen.gif"); padding-left: 1px; padding-right: 0px; }
+
+.MCDropDown_Closed .MCDropDownHotSpot_ { background-image: url("DropDownClosed.gif"); padding-left: 0px; padding-right: 0px; }
+
+.dropDownHead { font-size: 11pt; color: rgb(49, 78, 100); text-decoration: none; }
+
+div.MCTocProxy_0 { border-top: 1px solid black; padding-top: 10px; margin-top: 10px; padding-left: 20px; color: rgb(0, 0, 128); }
+
+table.GenTOCTable1 { margin: 0pt 0px 12pt; padding: 0px; border-color: transparent; border-style: none; border-width: 0px; background-color: transparent; background-image: none; float: inherit; font-size: inherit; font-family: inherit; font-style: inherit; font-variant: inherit; text-transform: inherit; color: inherit; letter-spacing: inherit; word-spacing: inherit; text-decoration: inherit; text-align: inherit; }
+
+td.GenTOCText1 { margin: 0px; padding: 0px; border-color: transparent; border-style: none; border-width: 0px; background-color: transparent; background-image: none; float: inherit; font-size: inherit; font-family: inherit; font-style: inherit; font-variant: inherit; text-transform: inherit; color: inherit; letter-spacing: inherit; word-spacing: inherit; text-decoration: inherit; text-align: inherit; font-weight: bold; }
+
+a.GenTOCText1:link { margin: 0px; padding: 0px; border-color: transparent; border-style: none; border-width: 0px; background-color: transparent; background-image: none; float: inherit; font-size: inherit; font-family: inherit; font-style: inherit; font-variant: inherit; text-transform: inherit; letter-spacing: inherit; word-spacing: inherit; text-align: inherit; color: black; font-weight: bold; text-decoration: none; }
+
+a.GenTOCText1 { margin: 0px; padding: 0px; border-color: transparent; border-style: none; border-width: 0px; background-color: transparent; background-image: none; float: inherit; font-size: inherit; font-family: inherit; font-style: inherit; font-variant: inherit; text-transform: inherit; letter-spacing: inherit; word-spacing: inherit; text-align: inherit; color: black; font-weight: bold; text-decoration: none; }
+
+td.GenTOCAutoText1 { padding: 0px; border-color: transparent; border-style: none; border-width: 0px; background-color: transparent; background-image: none; float: inherit; font-size: inherit; font-family: inherit; font-style: inherit; font-variant: inherit; text-transform: inherit; color: inherit; letter-spacing: inherit; word-spacing: inherit; text-decoration: inherit; text-align: inherit; margin: 0px; font-weight: bold; }
+
+td.GenTOCPageText1 { padding: 0px; border-color: transparent; border-style: none; border-width: 0px; background-color: transparent; background-image: none; float: inherit; font-size: inherit; font-family: inherit; font-style: inherit; font-variant: inherit; text-transform: inherit; color: inherit; letter-spacing: inherit; word-spacing: inherit; text-decoration: inherit; margin: 0px; vertical-align: bottom; font-weight: bold; text-align: right; white-space: normal; }
+
+td.mcReset { margin: 0px; padding: 0px; border-color: transparent; border-style: none; border-width: 0px; background-color: transparent; background-image: none; float: inherit; font-size: inherit; font-family: inherit; font-style: inherit; font-variant: inherit; text-transform: inherit; color: inherit; letter-spacing: inherit; word-spacing: inherit; text-decoration: inherit; text-align: inherit; }
+
+.MCWebHelpFramesetLink a { color: rgb(88, 105, 119); font-family: "Century Gothic"; font-size: 10pt; font-weight: normal; }
+
+.MCWebHelpFramesetLink.MCWebHelpFramesetLinkTop a { }
+
+.MCWebHelpFramesetLink.MCWebHelpFramesetLinkBottom a { }
+------MultipartBoundary--iEBR4Gpzn9hfRUA0vtyBmVRYqP5yNLBZ9wcEEwhIXR----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://docs.kony.com/konylibrary/messaging/engagement_api_guide/Skins/Default/Stylesheets/Components/Styles.css
+
+@charset "utf-8";
+
+input[type="search"] { appearance: none; }
+
+.search, .search-bar { width: 100%; position: relative; color: rgb(218, 218, 218); margin: 0px auto; }
+
+.search-field { text-align: left; width: 100%; height: 2em; padding-left: 10px; margin: 0px; box-sizing: border-box; border: none; border-radius: 25px; font: inherit; background: rgb(255, 255, 255); color: rgb(95, 95, 95); position: relative; }
+
+.search-field::-webkit-search-cancel-button { display: none; }
+
+.search-filter { float: left; box-sizing: border-box; line-height: 2em; padding-right: 5px; cursor: pointer; height: 2em; width: 45px; background: url("../Images/FilterOutline.png") center center no-repeat rgb(255, 255, 255); }
+
+.search-filter.selected { background-image: url("../Images/Filter.png"); background-repeat: no-repeat; background-position: center center; }
+
+.search-filter.open { background-repeat: no-repeat; background-position: center center; }
+
+.search-filter-wrapper { display: none; position: absolute; top: 0px; right: 56px; }
+
+.search-filter-content { display: none; border-radius: 0px 0px 4px 4px; position: absolute; right: 0px; top: 2em; line-height: normal; text-align: left; overflow: auto; z-index: 1; color: rgb(136, 136, 136); background-color: rgb(255, 255, 255); white-space: nowrap; }
+
+.search-filter-content ul { list-style: none; margin: 0px; padding: 6px; }
+
+.search-filter-content ul li { padding: 5px; margin: 0px; }
+
+.search-filter-content ul li:hover { color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); }
+
+.search-submit-wrapper { position: absolute; top: 0px; right: 0px; }
+
+.search-submit { width: 56px; height: 2em; border-radius: 0px 25px 25px 0px; background: url("../Images/SearchIcon.png") center center no-repeat rgb(190, 210, 48); cursor: pointer; box-sizing: border-box; }
+
+ul.menu a { text-decoration: none; outline: none; color: rgb(0, 0, 0); }
+
+ul.menu, ul.menu ul, ul.menu li { list-style: none; margin: 0px; }
+
+ul.menu, ul.menu ul, ul.menu li { padding: 0px; }
+
+ul.menu li > a { display: block; }
+
+ul.menu li > a.selected { font-weight: bold; }
+
+#results-heading { margin-bottom: 20px; }
+
+#resultList { padding-left: 0px; margin: 0px; }
+
+#resultList h3.title a { text-decoration: none; font-weight: normal; }
+
+#resultList h3.title { margin-bottom: 2px; line-height: 1.1em; }
+
+#resultList li { list-style: none; margin-bottom: 16px; }
+
+#resultList .glossary { padding: 15px; margin-bottom: 25px; box-shadow: rgb(204, 204, 204) 0px 1px 4px 0px; line-height: normal; }
+
+#resultList .glossary .term { margin-bottom: 10px; font-size: 1.5em; }
+
+#communityResultList { margin: 0px; padding: 0px 0px 0px 20px; list-style-image: none; list-style-type: none; font-size: 0.9em; }
+
+#communityResultList li { margin: 10px 0px; }
+
+#communityResultList a { text-decoration: none; }
+
+#communityResultList a:hover { text-decoration: underline; }
+
+#resultList.communitySearch .title { display: none; }
+
+#resultList.communitySearch #communityResultList { padding: 0px; }
+
+.activityInfo { color: rgb(102, 102, 102); }
+
+.activityInfo a:link, .activityInfo a:visited { color: rgb(102, 102, 102); }
+
+a.activityText:link, a.activityText:visited { color: rgb(0, 0, 0); }
+
+.activityTime { font-style: italic; font-size: 11px; color: rgb(153, 153, 153); margin-left: 3px; }
+
+#pagination { height: 2.5em; line-height: 2.5em; }
+
+#pagination a { min-width: 34px; cursor: pointer; border: 1px solid rgb(250, 250, 252); color: rgb(1, 133, 209); font-size: 1em; margin: 20px 5px; padding: 2px 8px; text-decoration: none; }
+
+#pagination a#selected { font-weight: bold; border-top: 1px solid rgb(226, 226, 230); }
+
+#pagination a:hover { border-top: 1px solid rgb(226, 226, 230); }
+------MultipartBoundary--iEBR4Gpzn9hfRUA0vtyBmVRYqP5yNLBZ9wcEEwhIXR----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://docs.kony.com/konylibrary/messaging/engagement_api_guide/Skins/Default/Stylesheets/Components/Tablet.css
+
+@charset "utf-8";
+
+@media only screen and (max-width: 1279px) {
+  .search-filter { font-size: 1em; }
+  .button.login-button.feedback-required, .button.edit-user-profile-button.feedback-required { display: none; }
+  .pulse-frame { display: none; }
+}
+------MultipartBoundary--iEBR4Gpzn9hfRUA0vtyBmVRYqP5yNLBZ9wcEEwhIXR----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://docs.kony.com/konylibrary/messaging/engagement_api_guide/Skins/Default/Stylesheets/Components/Mobile.css
+
+@charset "utf-8";
+
+@media only screen and (max-width: 767px) {
+  .search-bar { width: 100%; }
+}
+------MultipartBoundary--iEBR4Gpzn9hfRUA0vtyBmVRYqP5yNLBZ9wcEEwhIXR----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://docs.kony.com/konylibrary/messaging/engagement_api_guide/Content/Resources/TableStyles/Inner.css
+
+@charset "utf-8";
+
+@media print {
+  mctablestyle { background-color: rgb(255, 255, 255); }
+  mctablecolumnstyle { }
+  mctableheadstyle { }
+  mctablebodystyle { }
+  mctablefootstyle { }
+}
+
+mctablestyle { border-collapse: collapse; border-style: solid; border-width: 2px; border-color: rgb(255, 255, 255); margin: 0px; background-color: rgb(255, 255, 255); }
+
+mctablecolumnstyle { }
+
+mctableheadstyle { }
+
+mctablebodystyle { font-weight: normal; }
+
+mctablefootstyle { }
+
+@media print {
+  .TableStyle-Inner { background-color: rgb(255, 255, 255); border-spacing: 0px; }
+  .TableStyle-Inner .HeadE-Column1-Header1 { border-right: 1px solid rgb(255, 255, 255); border-bottom: 1px solid rgb(255, 255, 255); }
+  .TableStyle-Inner .HeadF-Column1-Header1 { border-bottom: 1px solid rgb(255, 255, 255); }
+  .TableStyle-Inner .HeadH-Column1-Header1 { border-right: 1px solid rgb(255, 255, 255); }
+  .TableStyle-Inner .HeadD-Column1-Header1 { border-bottom: 1px solid rgb(255, 255, 255); }
+  .TableStyle-Inner .HeadB-Column1-Header1 { border-right: 1px solid rgb(255, 255, 255); }
+  .TableStyle-Inner .FootE-Column1-Footer1 { border-right: 1px solid rgb(255, 255, 255); border-top: 1px solid rgb(255, 255, 255); }
+  .TableStyle-Inner .FootF-Column1-Footer1 { border-top: 1px solid rgb(255, 255, 255); }
+  .TableStyle-Inner .FootH-Column1-Footer1 { border-right: 1px solid rgb(255, 255, 255); }
+  .TableStyle-Inner .FootD-Column1-Footer1 { border-top: 1px solid rgb(255, 255, 255); }
+  .TableStyle-Inner .FootB-Column1-Footer1 { border-right: 1px solid rgb(255, 255, 255); }
+  .TableStyle-Inner .BodyE-Column1-Body1 { border-bottom: 1px solid rgb(255, 255, 255); border-right: 1px solid rgb(255, 255, 255); }
+  .TableStyle-Inner .BodyF-Column1-Body1 { border-bottom: 1px solid rgb(255, 255, 255); }
+  .TableStyle-Inner .BodyH-Column1-Body1 { border-right: 1px solid rgb(255, 255, 255); }
+  .TableStyle-Inner .BodyD-Column1-Body1 { border-bottom: 1px solid rgb(255, 255, 255); }
+  .TableStyle-Inner .BodyB-Column1-Body1 { border-right: 1px solid rgb(255, 255, 255); }
+}
+
+.TableStyle-Inner { border-collapse: collapse; background-color: rgb(255, 255, 255); border-style: solid; border-color: rgb(255, 255, 255); border-width: 2px; margin: 0px; border-spacing: 0px; }
+
+.TableStyle-Inner .Column-Column1 { }
+
+.TableStyle-Inner .Head-Header1 { }
+
+.TableStyle-Inner .HeadI-Column1-Header1 { padding: 1px; }
+
+.TableStyle-Inner .HeadI-Column1-Header1 p { }
+
+.TableStyle-Inner .HeadE-Column1-Header1 { padding: 1px; border-right: 1px solid rgb(255, 255, 255); border-bottom: 1px solid rgb(255, 255, 255); }
+
+.TableStyle-Inner .HeadE-Column1-Header1 p { }
+
+.TableStyle-Inner .HeadF-Column1-Header1 { padding: 1px; border-bottom: 1px solid rgb(255, 255, 255); }
+
+.TableStyle-Inner .HeadF-Column1-Header1 p { }
+
+.TableStyle-Inner .HeadH-Column1-Header1 { padding: 1px; border-right: 1px solid rgb(255, 255, 255); }
+
+.TableStyle-Inner .HeadH-Column1-Header1 p { }
+
+.TableStyle-Inner .HeadD-Column1-Header1 { padding: 1px; border-bottom: 1px solid rgb(255, 255, 255); }
+
+.TableStyle-Inner .HeadD-Column1-Header1 p { }
+
+.TableStyle-Inner .HeadC-Column1-Header1 { padding: 1px; }
+
+.TableStyle-Inner .HeadC-Column1-Header1 p { }
+
+.TableStyle-Inner .HeadB-Column1-Header1 { padding: 1px; border-right: 1px solid rgb(255, 255, 255); }
+
+.TableStyle-Inner .HeadB-Column1-Header1 p { }
+
+.TableStyle-Inner .HeadA-Column1-Header1 { padding: 1px; }
+
+.TableStyle-Inner .HeadA-Column1-Header1 p { }
+
+.TableStyle-Inner .HeadG-Column1-Header1 { padding: 1px; }
+
+.TableStyle-Inner .HeadG-Column1-Header1 p { }
+
+.TableStyle-Inner .Foot-Footer1 { }
+
+.TableStyle-Inner .FootI-Column1-Footer1 { padding: 1px; }
+
+.TableStyle-Inner .FootI-Column1-Footer1 p { }
+
+.TableStyle-Inner .FootE-Column1-Footer1 { padding: 1px; border-right: 1px solid rgb(255, 255, 255); border-top: 1px solid rgb(255, 255, 255); }
+
+.TableStyle-Inner .FootE-Column1-Footer1 p { }
+
+.TableStyle-Inner .FootF-Column1-Footer1 { padding: 1px; border-top: 1px solid rgb(255, 255, 255); }
+
+.TableStyle-Inner .FootF-Column1-Footer1 p { }
+
+.TableStyle-Inner .FootH-Column1-Footer1 { padding: 1px; border-right: 1px solid rgb(255, 255, 255); }
+
+.TableStyle-Inner .FootH-Column1-Footer1 p { }
+
+.TableStyle-Inner .FootD-Column1-Footer1 { padding: 1px; border-top: 1px solid rgb(255, 255, 255); }
+
+.TableStyle-Inner .FootD-Column1-Footer1 p { }
+
+.TableStyle-Inner .FootC-Column1-Footer1 { padding: 1px; }
+
+.TableStyle-Inner .FootC-Column1-Footer1 p { }
+
+.TableStyle-Inner .FootB-Column1-Footer1 { padding: 1px; border-right: 1px solid rgb(255, 255, 255); }
+
+.TableStyle-Inner .FootB-Column1-Footer1 p { }
+
+.TableStyle-Inner .FootA-Column1-Footer1 { padding: 1px; }
+
+.TableStyle-Inner .FootA-Column1-Footer1 p { }
+
+.TableStyle-Inner .FootG-Column1-Footer1 { padding: 1px; }
+
+.TableStyle-Inner .FootG-Column1-Footer1 p { }
+
+.TableStyle-Inner .Body-Body1 { }
+
+.TableStyle-Inner .BodyI-Column1-Body1 { font-weight: normal; padding: 1px; }
+
+.TableStyle-Inner .BodyI-Column1-Body1 p { font-weight: normal; }
+
+.TableStyle-Inner .BodyE-Column1-Body1 { font-weight: normal; border-bottom: 1px solid rgb(255, 255, 255); padding: 1px; border-right: 1px solid rgb(255, 255, 255); }
+
+.TableStyle-Inner .BodyE-Column1-Body1 p { font-weight: normal; }
+
+.TableStyle-Inner .BodyF-Column1-Body1 { font-weight: normal; border-bottom: 1px solid rgb(255, 255, 255); padding: 1px; }
+
+.TableStyle-Inner .BodyF-Column1-Body1 p { font-weight: normal; }
+
+.TableStyle-Inner .BodyH-Column1-Body1 { font-weight: normal; padding: 1px; border-right: 1px solid rgb(255, 255, 255); }
+
+.TableStyle-Inner .BodyH-Column1-Body1 p { font-weight: normal; }
+
+.TableStyle-Inner .BodyD-Column1-Body1 { font-weight: normal; border-bottom: 1px solid rgb(255, 255, 255); padding: 1px; }
+
+.TableStyle-Inner .BodyD-Column1-Body1 p { font-weight: normal; }
+
+.TableStyle-Inner .BodyC-Column1-Body1 { font-weight: normal; padding: 1px; }
+
+.TableStyle-Inner .BodyC-Column1-Body1 p { font-weight: normal; }
+
+.TableStyle-Inner .BodyB-Column1-Body1 { font-weight: normal; padding: 1px; border-right: 1px solid rgb(255, 255, 255); }
+
+.TableStyle-Inner .BodyB-Column1-Body1 p { font-weight: normal; }
+
+.TableStyle-Inner .BodyA-Column1-Body1 { font-weight: normal; padding: 1px; }
+
+.TableStyle-Inner .BodyA-Column1-Body1 p { font-weight: normal; }
+
+.TableStyle-Inner .BodyG-Column1-Body1 { font-weight: normal; padding: 1px; }
+
+.TableStyle-Inner .BodyG-Column1-Body1 p { font-weight: normal; }
+------MultipartBoundary--iEBR4Gpzn9hfRUA0vtyBmVRYqP5yNLBZ9wcEEwhIXR----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://docs.kony.com/konylibrary/messaging/engagement_api_guide/Content/Resources/Stylesheets/MadCapKB.css
+
+@charset "utf-8";
+
+@import url("../prettify/prettify.css");
+
+@font-face { font-family: karbon-regular; src: url("karbon-regular.eot") format("embedded-opentype"), url("karbon-regular.woff") format("woff"); }
+
+@font-face { font-family: Karbon-Light; src: url("Karbon-Light") format("embedded-opentype"), url("Karbon-Light.woff") format("woff"); }
+
+@font-face { font-family: karbon-bold; src: url("karbon-bold.eot") format("embedded-opentype"), url("karbon-bold.woff") format("woff"); }
+
+@font-face { font-family: Karbon-Medium; src: url("karbon-medium.eot") format("embedded-opentype"), url("karbon-medium.woff") format("woff"); }
+
+body { font-family: karbon-regular, Raleway, Verdana, Tahoma, sans-serif; font-size: 11pt; line-height: 1.6; color: rgb(72, 72, 72); }
+
+p { margin-top: 0pt; margin-bottom: 12pt; widows: 4; orphans: 4; }
+
+li { margin-bottom: 12pt; }
+
+td { font-size: 10pt; }
+
+a.expandspot { color: rgb(0, 128, 0); font-family: karbon-bold, Raleway, Verdana, Tahoma, sans-serif; font-style: italic; text-decoration: none; }
+
+span.expandtext { color: rgb(0, 0, 0); font-weight: normal; font-style: normal; }
+
+a.dropspot { font-family: karbon-bold, Raleway, Verdana, Tahoma, sans-serif; font-style: normal; color: rgb(168, 35, 132); }
+
+a.glossterm { color: rgb(128, 0, 0); font-style: italic; }
+
+span.glosstext { font-style: italic; font-weight: normal; color: rgb(0, 0, 255); }
+
+ol, ul, ol ol, ol ul, ul ol, ul ul { margin-top: 0px; margin-bottom: 0px; }
+
+p.Tip { margin: 8pt 18pt 4.5pt 9pt; color: rgb(0, 0, 0); background-color: rgb(230, 230, 230); }
+
+span.span_5 { color: rgb(0, 0, 255); }
+
+td { border-width: 1px; border-style: solid; border-color: initial; padding-left: 5px; break-inside: avoid; }
+
+p.toptable { margin-top: 0pt; font-size: 9pt; margin-bottom: 0pt; }
+
+p.Nomargin { margin-bottom: 0pt; }
+
+h1 { font-family: karbon-bold, Raleway, Verdana, Tahoma, sans-serif; margin: 12px 0px 12pt; padding-top: 2px; padding-bottom: 2px; border-top-width: 0px; border-bottom-width: 0px; break-after: avoid; color: rgb(0, 96, 151); font-size: 20pt; }
+
+h2 { font-family: karbon-bold, Raleway, Verdana, Tahoma, sans-serif; margin: 12pt 0px; padding-top: 2px; padding-bottom: 2px; border-bottom-width: 0px; border-top-width: 0px; break-after: avoid; color: rgb(0, 96, 151); font-size: 14pt; }
+
+h3 { font-family: karbon-bold, Raleway, Verdana, Tahoma, sans-serif; margin: 12pt 0px; padding-top: 2px; padding-bottom: 2px; border-bottom-width: 0px; border-top-width: 0px; break-after: avoid; color: rgb(0, 96, 151); font-size: 12pt; }
+
+p.events { margin-top: 0pt; margin-bottom: 12pt; font-family: monospace; }
+
+p.image { margin-top: 0pt; font-size: 10pt; text-align: left; margin-bottom: 0px; padding-top: 6px; padding-bottom: 6px; border-style: solid; border-width: 0px; }
+
+p.copyright { margin-top: 0pt; margin-bottom: 12pt; font-family: karbon-bold, Raleway, Verdana, Tahoma, sans-serif; font-style: normal; text-align: right; border-top: 1px solid rgb(0, 0, 0); padding-top: 8px; color: rgb(175, 32, 38); }
+
+p.proc_subheading { margin-bottom: 12pt; font-family: karbon-bold, Raleway, Verdana, Tahoma, sans-serif; font-style: normal; margin-top: 24px; }
+
+h4 { margin: 12.12px 0px; break-after: avoid; font-size: 10pt; padding-top: 2px; padding-bottom: 2px; color: rgb(0, 96, 151); }
+
+ol { padding-bottom: 10px; }
+
+table.testtable { background-color: rgb(220, 220, 220); }
+
+h5 { break-after: avoid; padding: 5px; color: rgb(88, 105, 119); }
+
+p.code { font-family: "Courier New"; background-color: rgb(241, 241, 241); border-style: solid; border-width: 1px; border-color: rgb(221, 221, 221); white-space: pre-wrap; margin-bottom: 10px; }
+
+p.code1 { font-family: "Courier New"; background-color: rgb(241, 241, 241); margin-left: 7mm; white-space: pre-wrap; margin-bottom: 10px; }
+
+p.code2 { font-family: "Courier New"; background-color: rgb(241, 241, 241); margin-left: 14mm; white-space: pre-wrap; margin-bottom: 10px; }
+
+p.codeOld { font-family: "Courier New"; background-color: rgb(220, 220, 220); border-style: solid; border-width: 0px; border-bottom-color: rgb(220, 220, 220); margin-bottom: 10px; }
+
+p.code1Old { font-family: "Courier New"; background-color: rgb(220, 220, 220); margin-left: 7mm; margin-bottom: 10px; }
+
+p.code2Old { font-family: "Courier New"; background-color: rgb(220, 220, 220); margin-left: 14mm; margin-bottom: 10px; }
+
+p.NormalTerm { font-family: karbon-bold, Raleway, Verdana, Tahoma, sans-serif; font-style: normal; break-after: avoid; }
+
+p.NormalTerm2 { font-family: karbon-bold, Raleway, Verdana, Tahoma, sans-serif; font-style: normal; margin-left: 7mm; break-after: avoid; }
+
+p.NormalTerm2Continued { margin-left: 14mm; break-before: avoid; }
+
+p.NormalTerm3 { margin-left: 14mm; font-family: karbon-bold, Raleway, Verdana, Tahoma, sans-serif; font-style: normal; break-after: avoid; }
+
+p.NormalTerm3Continued { margin-left: 21mm; break-before: avoid; }
+
+p.NormalTermContinued { margin-left: 7mm; break-before: avoid; }
+
+li.Bullet1 { margin-left: 7mm; text-indent: 0mm; }
+
+li.Bullet2 { margin-left: 14mm; }
+
+th { }
+
+code.codefirst { background-color: rgb(220, 220, 220); }
+
+td.header_text { border: 0px solid; color: rgb(0, 0, 0); }
+
+caption { font-size: 10pt; font-family: karbon-bold, Raleway, Verdana, Tahoma, sans-serif; }
+
+h6 { break-after: avoid; }
+
+p.forcode { font-family: monospace; margin-bottom: 0px; margin-top: 0px; padding: 2px 5px; background-color: rgb(241, 241, 241); margin-right: 0px; }
+
+td.testtd { background-color: rgb(220, 220, 220); font-family: monospace; top: 0px; border-left-color: rgb(169, 169, 169); border-right-color: rgb(169, 169, 169); border-top-color: rgb(169, 169, 169); }
+
+@media print {
+  h1 { font-size: 16pt; color: rgb(49, 78, 100); }
+  h2 { font-size: 14pt; background-color: rgb(49, 130, 177); background-image: none; color: rgb(255, 255, 255); }
+  h3 { font-size: 12pt; color: rgb(255, 255, 255); background-color: rgb(49, 130, 177); }
+  h4 { font-size: 10pt; color: rgb(53, 65, 76); }
+  p.Note { }
+  p { widows: 4; orphans: 4; }
+  span.RegTextInCode { color: rgb(128, 0, 128); font-size: 10pt; }
+  code.codefirst { font-size: 11pt; }
+  p.forcode { font-size: 11pt; }
+  li { margin-top: 6pt; }
+  h5 { color: rgb(0, 0, 0); }
+  h6 { }
+  table { }
+  p.HeaderStyle { font-size: 11pt; margin-bottom: 0pt; font-family: karbon-bold, Raleway, Verdana, Tahoma, sans-serif; color: rgb(169, 169, 169); }
+}
+
+.pagebreak { break-before: page; }
+
+strong.GUI_Items { font-family: karbon-bold, Raleway, Verdana, Tahoma, sans-serif; }
+
+i.new_terms { }
+
+code.file_names { font-size: 11pt; }
+
+span.RegTextInCode { color: rgb(128, 0, 128); }
+
+p.ListIntro { margin-top: 0pt; margin-bottom: 12pt; break-after: avoid; break-inside: avoid; break-before: avoid; }
+
+code { font-size: 12pt; }
+
+p.Parameter { font-family: karbon-bold, Raleway, Verdana, Tahoma, sans-serif; font-style: normal; margin-left: 7mm; break-after: avoid; font-size: 11pt; margin-bottom: 8pt; }
+
+pre.prettyprint { background-color: rgb(241, 241, 241); border-style: solid; border-width: 1px; border-color: rgb(221, 221, 221); white-space: pre-wrap; width: auto; max-width: 80%; }
+
+a { color: rgb(72, 61, 139); }
+
+p.Parametercontinued { margin-left: 7mm; }
+
+p.Note, div.Note { background-color: rgb(204, 218, 233); padding: 10px; border-width: 1px 1px 1px 5px; border-style: solid; border-color: rgb(170, 170, 170) rgb(170, 170, 170) rgb(170, 170, 170) rgb(10, 156, 74); border-image: initial; }
+
+p.Note1 { background-color: rgb(204, 218, 233); padding: 10px; border-width: 1px 1px 1px 5px; border-style: solid; border-color: rgb(170, 170, 170) rgb(170, 170, 170) rgb(170, 170, 170) rgb(10, 156, 74); border-image: initial; margin-left: 11mm; }
+
+p.Note2 { background-color: rgb(204, 218, 233); padding: 10px; border-width: 1px 1px 1px 5px; border-style: solid; border-color: rgb(170, 170, 170) rgb(170, 170, 170) rgb(170, 170, 170) rgb(10, 156, 74); border-image: initial; margin-left: 14mm; }
+
+p.Important, div.Important { background-color: rgb(204, 218, 233); padding: 10px; border-width: 1px 1px 1px 5px; border-style: solid; border-color: rgb(170, 170, 170) rgb(170, 170, 170) rgb(170, 170, 170) rgb(255, 102, 0); border-image: initial; }
+
+p.Important1 { background-color: rgb(204, 218, 233); padding: 10px; border-width: 1px 1px 1px 5px; border-style: solid; border-color: rgb(170, 170, 170) rgb(170, 170, 170) rgb(170, 170, 170) rgb(255, 102, 0); border-image: initial; margin-left: 11mm; }
+
+p.Important2 { background-color: rgb(204, 218, 233); padding: 10px; border-width: 1px 1px 1px 5px; border-style: solid; border-color: rgb(170, 170, 170) rgb(170, 170, 170) rgb(170, 170, 170) rgb(255, 102, 0); border-image: initial; margin-left: 14mm; }
+
+a:link { color: rgb(51, 0, 204); }
+
+a:visited, a:hover, a:active { color: rgb(168, 35, 132); }
+
+p.HeaderStyle { margin-top: 0pt; margin-bottom: 12pt; widows: 4; orphans: 4; color: rgb(72, 72, 72); }
+
+html.titlescreen { }
+
+p.example { background-color: rgb(255, 255, 255); background-repeat: no-repeat; border: 1px solid rgb(0, 62, 117); margin-bottom: 15px; padding: 15px; border-radius: 6px; font-style: normal; line-height: 16pt; }
+
+div.example { background-color: rgb(255, 255, 255); background-repeat: no-repeat; border: 1px solid rgb(0, 62, 117); margin-bottom: 15px; padding: 15px; border-radius: 6px; font-style: normal; line-height: 16pt; }
+
+table { border: 1.5pt solid rgb(204, 204, 204); margin-left: 0px; font-family: FrutigerNext_LT_Regular, Verdana, sans-serif; border-collapse: collapse; }
+
+table tr, table td { border-width: 1px; border-style: solid; border-color: rgb(255, 255, 255) rgb(255, 255, 255) rgb(187, 187, 187); border-image: initial; border-collapse: collapse; font-family: Sourcesanspro-Regular, Raleway, Verdana, sans-serif; padding: 5px; vertical-align: text-top; }
+
+table th { border-collapse: collapse; background-color: rgb(242, 242, 242); margin: 0px; font-size: 16px; line-height: 1.25; color: rgb(53, 65, 76); border-width: 1pt 1pt 1px; border-style: solid; border-color: rgb(242, 242, 242) rgb(242, 242, 242) rgb(187, 187, 187); border-image: initial; font-weight: normal; padding: 5px; font-family: FrutigerNext_LT_Regular, Raleway, Verdana, sans-serif !important; }
+
+div.indent { margin-left: 20px; }
+
+p.TitlePageHeading { color: rgb(0, 83, 134); font-size: 36pt; text-align: center; line-height: normal; }
+
+p.TitlePageSubHeading { color: rgb(0, 83, 134); font-size: 24pt; line-height: normal; text-align: center; }
+
+#pageFrame { max-width: 1000px; border: 1px solid rgb(153, 153, 153); background-color: rgb(255, 255, 255); padding: 10px; margin: 10px; }
+
+div.titlehead { height: 125px; width: 103%; padding: 0px; margin: -10px; background: linear-gradient(45deg, rgb(0, 120, 182) 0%, rgb(0, 158, 166) 38%, rgb(0, 158, 166) 100%); }
+
+p.pdf { text-align: right; right: 0px; float: right; padding-top: 28px; }
+
+p.pdftitle { text-align: right; right: 0px; float: right; padding-top: 10px; }
+
+pre { padding: 10px; }
+
+html.copyright { }
+
+p.code + p.Note, p.code + p.Important, p.code + p.Warning, pre + p.Note, pre + p.Important, pre + p.Warning { margin-top: 15px; }
+
+li table { margin: 20px 0px; }
+
+li p { margin-top: 15px; }
+
+@media screen and (max-width: 500px) {
+  p.pdf { display: none; }
+  div.MCBreadcrumbsBox_0 { display: none; }
+  img { max-width: 100%; }
+  #pageFrame { max-width: 100% !important; border: 0px solid rgb(255, 255, 255) !important; background-color: rgb(255, 255, 255) !important; margin: 0px !important; padding: 0px !important; }
+  body { margin: 3px; padding: 3px; background-color: rgb(255, 255, 255) !important; }
+  div.feedback-comments-wrapper { display: none; }
+  div.titlehead { height: 75px; margin-left: -6px; width: 103%; margin-right: 0px; }
+  div.titlehead img { display: none; }
+  div.titlehead p { margin: -30px 0px 0px; padding-top: 0px; }
+  div.titlehead span.DevOfflineVariablesDocName1 { font-size: 20px; }
+  p.TitlePageHeading { font-size: 25px; }
+  p.TitlePageSubHeading { font-size: 20px; }
+  table { margin: 10px 5px 15px; padding-left: 0px; max-width: 90%; }
+  td { padding: 5px; }
+  h2 { font-size: smaller; }
+  ul, ol { margin-left: 18px; padding-left: 0px; }
+}
+
+@media screen and (max-width: 900px) and (min-width: 501px) {
+  p.pdf { display: none; }
+  div.MCBreadcrumbsBox_0 { display: none; }
+  img { max-width: 100%; }
+  #pageFrame { max-width: 100% !important; border: 0px solid rgb(255, 255, 255) !important; background-color: rgb(255, 255, 255) !important; padding: 20px !important; margin: 0px !important; }
+  body { margin: 0px; padding: 0px; }
+  div.feedback-comments-wrapper { display: none; }
+  div.titlehead { height: 100px; }
+  div.titlehead img { display: none; }
+  div.titlehead p { margin: 0px; }
+  div.titlehead span.DevOfflineVariablesDocName1 { font-size: 25px; }
+  p.TitlePageHeading { font-size: 35px; }
+  p.TitlePageSubHeading { font-size: 20px; }
+}
+
+body.blue { font-family: Karbon-Regular, Raleway, Verdana, Tahoma, sans-serif; font-weight: 300; font-size: 11pt; line-height: 1.6; background-color: blue; }
+
+strong { font-family: karbon-bold, Raleway, Verdana, Tahoma, sans-serif; }
+
+b { font-family: karbon-bold, Raleway, Verdana, Tahoma, sans-serif; }
+
+img.thumbnail { border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); }
+
+img.thumbnailNoborder { }
+
+img.border { border-style: solid; border-width: 1px; border-color: rgb(0, 0, 0); }
+------MultipartBoundary--iEBR4Gpzn9hfRUA0vtyBmVRYqP5yNLBZ9wcEEwhIXR----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://docs.kony.com/konylibrary/messaging/engagement_api_guide/Content/Resources/prettify/prettify.css
+
+@charset "utf-8";
+
+.pln { color: rgb(0, 0, 0); }
+
+@media screen {
+  .str { color: rgb(0, 136, 0); }
+  .kwd { color: rgb(0, 0, 136); }
+  .com { color: rgb(136, 0, 0); }
+  .typ { color: rgb(102, 0, 102); }
+  .lit { color: rgb(0, 102, 102); }
+  .pun, .opn, .clo { color: rgb(102, 102, 0); }
+  .tag { color: rgb(0, 0, 136); }
+  .atn { color: rgb(102, 0, 102); }
+  .atv { color: rgb(0, 136, 0); }
+  .dec, .var { color: rgb(102, 0, 102); }
+  .fun { color: red; }
+}
+
+@media print, projection {
+  .str { color: rgb(0, 102, 0); }
+  .kwd { color: rgb(0, 0, 102); font-weight: bold; }
+  .com { color: rgb(102, 0, 0); font-style: italic; }
+  .typ { color: rgb(68, 0, 68); font-weight: bold; }
+  .lit { color: rgb(0, 68, 68); }
+  .pun, .opn, .clo { color: rgb(68, 68, 0); }
+  .tag { color: rgb(0, 0, 102); font-weight: bold; }
+  .atn { color: rgb(68, 0, 68); }
+  .atv { color: rgb(0, 102, 0); }
+}
+
+pre.prettyprint { padding: 2px; overflow-wrap: break-word; border: 1px solid rgb(136, 136, 136); }
+
+ol.linenums { margin-top: 0px; margin-bottom: 0px; }
+
+li.L0, li.L1, li.L2, li.L3, li.L5, li.L6, li.L7, li.L8 { list-style-type: none; }
+
+li.L1, li.L3, li.L5, li.L7, li.L9 { background: rgb(238, 238, 238); }
+------MultipartBoundary--iEBR4Gpzn9hfRUA0vtyBmVRYqP5yNLBZ9wcEEwhIXR----
+Content-Type: text/html
+Content-ID: <frame-0ACA61AE59341E72724824C60EE3BA62@mhtml.blink>
+Content-Transfer-Encoding: binary
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body></body></html>
+------MultipartBoundary--iEBR4Gpzn9hfRUA0vtyBmVRYqP5yNLBZ9wcEEwhIXR----
+Content-Type: text/html
+Content-ID: <frame-313AE26DA6DDE1A733A7857FF86966DC@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://vars.hotjar.com/box-63c3a81830bf549dafe40b369003f751.html
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body></body></html>
+------MultipartBoundary--iEBR4Gpzn9hfRUA0vtyBmVRYqP5yNLBZ9wcEEwhIXR------
